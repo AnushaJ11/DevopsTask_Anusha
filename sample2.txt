@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am jettiAnusha,this is my sample2.txt file, modifed
+=======
+I am jettiAnusha,this is my sample2.txt file , now i modified it
+>>>>>>> first
